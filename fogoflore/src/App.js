@@ -1,5 +1,6 @@
 import React from 'react';
 import Map from './Map';
+
 import { StyleSheet, Text, View } from 'react-native';
 
 export default class App extends React.Component {
